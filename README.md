@@ -1,4 +1,4 @@
-## Online Customer Sales Case Study
+## E-Commerce Revenue & Customer Data Analytics
 - A personal project using a simulated dataset to practice my SQL and database skills.
 - The project analyzes fictional sales data to answer business questions about customers, orders, products, and returns.
 
